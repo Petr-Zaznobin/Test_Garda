@@ -1,0 +1,3 @@
+/Users/petrzaznobin/Desktop/Programming/Tets_GARDA/lvl_vars/cmake-build-debug/CMakeFiles/lvl_vars.dir
+/Users/petrzaznobin/Desktop/Programming/Tets_GARDA/lvl_vars/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/petrzaznobin/Desktop/Programming/Tets_GARDA/lvl_vars/cmake-build-debug/CMakeFiles/rebuild_cache.dir
